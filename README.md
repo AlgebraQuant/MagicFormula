@@ -2,9 +2,9 @@
 Backtesting Greenblatt’s Magic Formula for Brazilian listed companies
 ---
 ## Backtest Results
-![Backtest](/images/output.png)
+![Backtest](/images/magic_ibov.jpg)
 ---
-## List of selected companies for the 2022 portfolio:
+## Portfolio composition for 2022:
 
 |    | Ticker   | Name         |
 |---:|:---------|:-------------|
