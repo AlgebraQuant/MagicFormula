@@ -1,10 +1,9 @@
-# MagicFormula
-Backtesting Greenblatt’s Magic Formula for Brazilian listed companies
+## Backtesting Greenblatt’s Magic Formula for Brazilian listed companies
 ---
-## Backtest Results
+### Backtest Results
 ![Backtest](/images/magic_ibov.jpg)
 ---
-## Portfolio composition for 2022:
+### Portfolio composition for 2022:
 
 |    |  Ticker  | Company Name |  ROIC  |  Earnings Yield  |
 |---:|:---------|:-------------|-------:|-----------------:|
