@@ -1,9 +1,10 @@
+
 ## Backtesting Greenblatt’s Magic Formula for Brazilian listed companies
 
-This project follows, as far as possible, the standardization proposed in Cookiecutter Data Science guidelines (https://drivendata.github.io/cookiecutter-data-science/)
+##### This project follows, as far as possible, the standardization proposed in Cookiecutter Data Science guidelines (https://drivendata.github.io/cookiecutter-data-science/)
 ---
 ### Backtest Results
-![Backtest](/images/magic_ibov.jpg)
+![Backtest](/reports/images/magic_ibov.jpg)
 ---
 ### Portfolio composition for 2022:
 
