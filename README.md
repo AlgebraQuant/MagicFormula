@@ -1,14 +1,16 @@
 
-## Backtesting Greenblatt’s Magic Formula for Brazilian listed companies
-
+### Backtesting Greenblatt’s Magic Formula for Brazilian listed companies
+<p align="center">
 <img src="./reports/images/book.png" alt="fishy" class="bg-primary" width="200px">
+</p>
 
-##### This project follows, as far as possible, the standardization proposed in Cookiecutter Data Science guidelines (https://drivendata.github.io/cookiecutter-data-science/)
 ---
-### Backtest Results
+#### Backtest Results
+
 ![Backtest](/reports/images/magic_ibov.jpg)
+
 ---
-### Portfolio composition for 2022:
+#### Portfolio composition for 2022:
 
 |    | ticker   | name         |   roic |   earnings_yield |
 |---:|:---------|:-------------|-------:|-----------------:|
@@ -49,3 +51,5 @@
 [Felipe Costa](https://github.com/fe-lipe-git)
 
 [Carlos Carvalho](https://github.com/crdcj)
+
+<sup> The project follows, as far as possible, the standardization proposed in [Cookiecutter Data Science guidelines](https://drivendata.github.io/cookiecutter-data-science/). </sub>
