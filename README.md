@@ -1,8 +1,7 @@
 
 ### Backtesting Greenblatt’s Magic Formula for Brazilian listed companies
-<p align="center">
-<img src="./reports/images/book.png" alt="fishy" class="bg-primary" width="200px">
-</p>
+
+<p align='center'><img src="./reports/images/book.png" width="200px"></p>
 
 ---
 #### Backtest Results
