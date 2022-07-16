@@ -1,12 +1,12 @@
 
 ### Backtesting Greenblatt’s Magic Formula for Brazilian listed companies
 
-<p align='center'><img src="./reports/images/book.png" width="200px"></p>
+<p align='center'><img src="./images/book.png" width="200px"></p>
 
 ---
 #### Backtest Results
 
-![Backtest](/reports/images/magic_ibov.jpg)
+![Backtest](/images/magic_ibov.jpg)
 
 ---
 #### Portfolio composition for 2022:
