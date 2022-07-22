@@ -1,4 +1,4 @@
-balancing_on,codneg,nomres,codcvm,doc_env,per_fim,shares_outstanding,net_debt,ebit,roic,market_cap,enterprise_value,earnings_yield,rank_final
+rebalance_on,codneg,nomres,codcvm,doc_env,per_fim,shares_outstanding,net_debt,ebit,roic,market_cap,enterprise_value,earnings_yield,rank_final
 2011-04-11,AUTM3,AUTOMETAL,22381,2011-02-28 14:52:34,2010-12-31,94.425,252.10699999999997,247.233,1.1219550733307204,1606.1692500000001,1858.2762500000001,0.13304426615795148,1
 2011-04-11,ETER3,ETERNIT,5762,2011-03-11 11:18:46,2010-12-31,89.5,-56.717,123.661,0.2950365649547593,987.185,930.468,0.1329019375196138,2
 2011-04-11,TOTS3,TOTVS,19992,2011-01-31 19:05:59,2010-12-31,31.459,179.42099999999996,211.669,0.1854495276199933,994.1044,1173.5254,0.1803701905386965,3
